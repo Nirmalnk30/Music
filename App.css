@@ -1,0 +1,74 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  background-image: url("https://www.kibrispdr.org/data/582/gambar-untuk-background-foto-36.jpg");
+
+}
+.text-center1{
+  margin-left: 550px;
+}
+.navbar-brand{
+  text-align: center;
+  margin-left: 500px;
+  font-size: larger;
+  font-weight: bold;
+  
+}
+.card{
+  border: 1px solid #f6a961;
+    background-color: rgba(146, 47, 47, 0.699);
+    box-shadow: 0px 2px 3px 3px burlywood;
+    color: rgb(3, 3, 3);
+    text-transform: uppercase;
+    font-weight: bolder;
+	border-radius: 2px;
+	width: 690px;
+	padding: 20px;
+  text-align: center;
+  margin-left: 500px;
+    
+}
+button{
+  background-color: black;
+  color: azure;
+  box-shadow: 1px 2px 3px 4px white;
+}
+.form-group{
+  padding: 30px;
+}
+audio {
+  width: 100%;
+  outline: none;
+}
+.img-album {
+  width: 70px;
+  height: 70px;
+  border-radius: 5px;
+  bottom: 10px;
+  right: 10px;
+  display: flex;
+}
+.card-body{
+font-weight: bolder;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+.card-img-top{
+  margin-left: 480px;
+  box-shadow: 2px 3px 5px 10px black;
+  position: relative;
+}
+.card-title{
+  margin-left: 480px;
+  
+}
+.card-text{
+  margin-left: 480px;
+}
+.form-group{
+  width: 100px;
+  height: 100px;
+  margin-left: 190px;
+  
+}
